@@ -2,6 +2,7 @@ using System;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class Hero : MonoBehaviour
 {
@@ -93,6 +94,10 @@ public class Hero : MonoBehaviour
                 item_info.Life--;
             }
             
+    }
+    public void end()
+    {
+        SceneManager.LoadScene ("nana");
     }
     void OnTriggerEnter2D(Collider2D coll)
     {
