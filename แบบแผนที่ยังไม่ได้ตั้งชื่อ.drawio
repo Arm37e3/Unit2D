@@ -1,9 +1,38 @@
-<mxfile host="app.diagrams.net" modified="2023-10-27T03:40:37.593Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" version="22.0.8" etag="8VubSHRTtiFgX6aGMPA-" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-27T05:50:34.645Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="O6LZA0AWmm900B-z2bFT" version="22.0.8" type="github">
   <diagram name="หน้า-1" id="IYYpVgitZUw0eZ5C7rkB">
-    <mxGraphModel>
+    <mxGraphModel dx="363" dy="593" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="6f5Gzbipdl8Cgnjj4et4-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6f5Gzbipdl8Cgnjj4et4-2" target="6f5Gzbipdl8Cgnjj4et4-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6f5Gzbipdl8Cgnjj4et4-2" value="เริ่ม" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6f5Gzbipdl8Cgnjj4et4-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6f5Gzbipdl8Cgnjj4et4-10" target="6f5Gzbipdl8Cgnjj4et4-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6f5Gzbipdl8Cgnjj4et4-10" value="ตัวเเปร" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6f5Gzbipdl8Cgnjj4et4-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6f5Gzbipdl8Cgnjj4et4-12">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="250" y="570" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6f5Gzbipdl8Cgnjj4et4-12" value="นำเข้า" style="html=1;strokeWidth=2;shape=manualInput;whiteSpace=wrap;rounded=1;size=26;arcSize=11;" vertex="1" parent="1">
+          <mxGeometry x="200" y="470" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6f5Gzbipdl8Cgnjj4et4-23" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="620" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="6f5Gzbipdl8Cgnjj4et4-24" value="&lt;span style=&quot;border-bottom: 1px dotted&quot;&gt;Attribute&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="250" y="770" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6f5Gzbipdl8Cgnjj4et4-25" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="314" y="630" width="100" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
